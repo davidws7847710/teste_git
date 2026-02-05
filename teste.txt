@@ -1,2 +1,1 @@
-Este ‚ a primeira linha 
-"Atualiza‡Æo feita para enviar ao remoto" 
+"Linha da branch CONFLITO" 
