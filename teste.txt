@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Linha da branch MAIN" 
+=======
+"Linha da branch CONFLITO" 
+>>>>>>> conflito
